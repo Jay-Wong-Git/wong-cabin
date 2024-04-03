@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 # supabase
-supabase.js
+supabase.js.bak
